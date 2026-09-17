@@ -8,7 +8,7 @@
 
   [![Steam](https://img.shields.io/badge/-Steam-292E37?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199367515459/)
   [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/530406693612421142)
-  [![YouTube](https://img.shields.io/badge/-YouTube-EB0909?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/guiddo806)
+  [![YouTube](https://img.shields.io/badge/-YouTube-EB0909?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/feofelact)
 
   ### Languages I Use
 
